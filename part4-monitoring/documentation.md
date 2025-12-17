@@ -1,4 +1,4 @@
-#Part 4: Production Monitoring
+# Part 4: Production Monitoring
 
 ## 1. Monitoring Philosophy
 Our goal is **"Defense in Depth"**. I monitor the pipeline at three distinct layers—Infrastructure, Data Quality, and Business Logic—to ensure we catch issues before they impact executive dashboards.

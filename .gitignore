@@ -1,0 +1,13 @@
+# Python internals
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+data/processed/*.db
+
+# Quarantine output
+data/quarantine/*.csv
+
+data/raw/*.csv
